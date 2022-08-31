@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T07:55:01.664Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="Qe-FIgsxklQ9wtSMezfZ" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-31T08:02:51.800Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="9UrFTq4-8Z4qHkp9C1WP" version="20.2.7" type="github">
   <diagram id="LHhiTsxhyaD0oa8H91zO" name="หน้า-1">
-    <mxGraphModel dx="620" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="505" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -187,6 +187,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="170" as="sourcePoint" />
             <mxPoint x="380" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xFvmtvL-wBPp0YOzxMnH-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;End&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="314.53" y="10" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xFvmtvL-wBPp0YOzxMnH-3" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="OhibkOWhkybaKJjz4Rbb-17" target="xFvmtvL-wBPp0YOzxMnH-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="210" as="sourcePoint" />
+            <mxPoint x="280" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
