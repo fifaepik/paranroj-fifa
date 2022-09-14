@@ -4,5 +4,5 @@ SEND 'Please enter second number' TO DISPLAY
 RECEIVE secondNumber FROM KEYBOARD
 SEND 'Please enter third number' TO DISPLAY
 RECEIVE thirdNumber FROM KEYBOARD
-SET total TO (firstNumber + secondNumber + thirdNumber) / 3
-SEND total TO DISPLAY
+SET average TO (firstNumber + secondNumber + thirdNumber) / 3
+SEND average TO DISPLAY
