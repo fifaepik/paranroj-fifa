@@ -1,1 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2022-09-14T08:19:41.483Z" agent="5.0 (iPad; CPU OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/105.0.5195.129 Mobile/15E148 Safari/604.1" version="20.3.0" etag="cT8hEehBuI6ec9MUrZTD" type="github"><diagram id="Jdv65tOk0UUm8chGYxXW">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-14T08:29:51.663Z" agent="5.0 (iPad; CPU OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/105.0.5195.129 Mobile/15E148 Safari/604.1" etag="q_1n1X25M5jYMPPsosGz" version="20.3.0" type="github">
+  <diagram id="Jdv65tOk0UUm8chGYxXW" name="หน้า-1">
+    <mxGraphModel dx="1137" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Grp_tZaI9g9ipAopP8oz-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="Grp_tZaI9g9ipAopP8oz-2" target="Grp_tZaI9g9ipAopP8oz-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Grp_tZaI9g9ipAopP8oz-2" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;Start&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Grp_tZaI9g9ipAopP8oz-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="Grp_tZaI9g9ipAopP8oz-3" target="Grp_tZaI9g9ipAopP8oz-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Grp_tZaI9g9ipAopP8oz-3" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;My number is 2&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Grp_tZaI9g9ipAopP8oz-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="Grp_tZaI9g9ipAopP8oz-5" target="Grp_tZaI9g9ipAopP8oz-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Grp_tZaI9g9ipAopP8oz-5" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;Enter number&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Grp_tZaI9g9ipAopP8oz-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="Grp_tZaI9g9ipAopP8oz-7" target="Grp_tZaI9g9ipAopP8oz-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Grp_tZaI9g9ipAopP8oz-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="Grp_tZaI9g9ipAopP8oz-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="105.00000000000011" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Grp_tZaI9g9ipAopP8oz-7" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;Is the number higher than 10?&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;rounded=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="17.5" y="440" width="175" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Grp_tZaI9g9ipAopP8oz-9" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;‘Too high! You must guess a number between 1 and 10’&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;rounded=1;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="300" y="445" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Grp_tZaI9g9ipAopP8oz-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="Grp_tZaI9g9ipAopP8oz-13" target="Grp_tZaI9g9ipAopP8oz-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Grp_tZaI9g9ipAopP8oz-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="Grp_tZaI9g9ipAopP8oz-13" target="Grp_tZaI9g9ipAopP8oz-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Grp_tZaI9g9ipAopP8oz-13" value="&lt;b&gt;Is the number 2?&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="21.25" y="580" width="167.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Grp_tZaI9g9ipAopP8oz-14" value="&lt;b&gt;Output ‘Bad luck! The correct number is’ 2&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="300" y="585" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Grp_tZaI9g9ipAopP8oz-16" value="&lt;b&gt;‘Well done! You guessed correctly.’&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="27.5" y="720" width="155" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Grp_tZaI9g9ipAopP8oz-18" value="&lt;b&gt;YES&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="100" y="670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Grp_tZaI9g9ipAopP8oz-19" value="&lt;b&gt;YES&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="210" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Grp_tZaI9g9ipAopP8oz-20" value="&lt;b&gt;NO&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="210" y="625" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Grp_tZaI9g9ipAopP8oz-23" value="&lt;b&gt;NO&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="100" y="530" width="60" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
